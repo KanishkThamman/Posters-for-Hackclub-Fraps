@@ -3,6 +3,7 @@ This project contains various posters for Hackachinno
 
 ## Contents
 Exported Files: Ready-to-print formats (PDF)
+
 Was made in Canva :)
 
 ## Instructions
