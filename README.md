@@ -1,9 +1,12 @@
-##Overview
+## Overview
 This project contains various posters for Hackachinno 
-##Contents
+
+## Contents
 Exported Files: Ready-to-print formats (PDF)
 Was made in Canva :)
-##Instructions
+
+## Instructions
 Print: Use exported files for printing.
-##Contact
+
+## Contact
 For questions, contact [Kanishk Thamman] at [Kanishk.thamman@pm.me].
