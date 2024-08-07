@@ -9,4 +9,4 @@ Was made in Canva :)
 Print: Use exported files for printing.
 
 ## Contact
-For questions, contact [Kanishk Thamman] at [Kanishk.thamman@pm.me].
+For questions, contact Kanishk Thamman at Kanishk.thamman@pm.me.
